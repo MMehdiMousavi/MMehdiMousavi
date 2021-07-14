@@ -6,6 +6,6 @@
 - 🔭 I’m currently working on [SuperCaustics](https://github.com/MMehdiMousavi/SuperCaustics) & [C++ Raytracer](https://github.com/MMehdiMousavi/Raytracer)
 - 👋 Check out [AI Playground: An Unreal Engine Based Data Ablation tool](https://github.com/MMehdiMousavi/AIP)
 - 🌱 I do 3D Graphics, Synthetic Data simulations & Deep Learning
-- 👯 If youre looking for customized synthetic data for any type of supervised deep learning problem, I can help!
+- 👯 If youre looking for photorealistic, customized synthetic data for any type of supervised deep learning problem, I can help!
 - 📫 reach me at mehdimousavi.redcap@gmail.com
 
